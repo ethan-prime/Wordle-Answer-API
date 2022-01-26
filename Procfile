@@ -1,0 +1,1 @@
+web: node wordle.js
